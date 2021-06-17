@@ -1,0 +1,21 @@
+.container {
+    height: 400px;
+}
+
+
+.submit-button {
+    background-color: #b7410e;
+    border-radius: 6px;
+    width: 10%;
+    display: block;
+    text-align: center;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.submit-button:hover {
+    background-color: azure;
+    color: black;
+    border: 1px solid black;
+}

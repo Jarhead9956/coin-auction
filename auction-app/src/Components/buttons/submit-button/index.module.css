@@ -1,0 +1,18 @@
+.button{
+    background-color: #b7410e;
+    color: white;
+    border-radius: 6px;
+    width: 10%;
+    display: block;
+    border:none;
+    padding: 8px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 0.5%;
+}
+.button:hover{
+    background-color: white;
+    border: 1px solid #b7410e;
+    color: #b7410e;
+    font-style: italic;
+}

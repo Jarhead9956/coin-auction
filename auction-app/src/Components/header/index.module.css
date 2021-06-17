@@ -1,0 +1,21 @@
+.logo {
+    width: 50px;
+    margin-right: 100px;
+    margin-left: 20px;
+    margin-top: 12px;
+    margin-bottom: 5px;
+}
+
+.menu {
+ background-color: #b7410e;
+ padding: 0;
+ height: 80px;
+}
+
+.menu a:hover {
+    color: black;
+}
+
+.menu, a:active {
+    color: blueviolet;
+}

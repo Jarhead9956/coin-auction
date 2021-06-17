@@ -1,0 +1,40 @@
+.container {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0.5%;
+}
+
+.img {
+    max-width: 265px;
+    margin: 0 auto;
+    display: block;
+}
+
+.personal-info {
+    vertical-align: top;
+    padding: 10px;
+    margin: 0 auto;
+    color: #234465;
+    width: 50%;
+    text-align: center;
+}
+
+.p{
+    text-decoration: underline;
+    margin-bottom: 1%;
+    font-weight:bold;
+    font-size: 20px;
+}
+
+.button {
+    background-color: #b7410e;
+    border-radius: 6px;
+    margin-left: 10px;
+}
+
+.button:hover {
+    color: black;
+    background: #fff;
+    border-color: black;
+}

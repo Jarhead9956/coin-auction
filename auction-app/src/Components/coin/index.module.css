@@ -1,0 +1,43 @@
+.container {
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    border: 1px solid #234465;
+    margin-right: 10px;
+    margin-bottom: 3%;
+    border-radius: 6px;
+}
+
+.description {
+    display: inline-block;
+    word-wrap: break-word;
+    padding: 0.5%;
+    font-style: italic;
+    /* border:1px solid blue; */
+    margin-bottom: 0.5%;
+    width: 95%;
+    display: inline-block;
+    vertical-align: top;
+    ;
+}
+
+
+.coin-image {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.details-button {
+    background-color: #b7410e;
+    border-radius: 6px;
+}
+
+.details-button:hover {
+    color: black;
+    background: #fff;
+    border-color: black;
+}
+
+
+
