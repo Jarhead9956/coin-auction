@@ -82,7 +82,7 @@ const DetailCoin = (props) => {
                 )
             }
             return (
-                <Button className={styles.button} onClick={buyCoin} size='large'>BY IT</Button>
+                <Button className={styles.button} onClick={buyCoin} size='large'>BUY IT</Button>
             )
         }
         
